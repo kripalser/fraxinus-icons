@@ -1,2 +1,2 @@
-# fraxinus-icons
-An icon font for Fraxinus theme
+# Fraxinus Icons
+An icon font for Fraxinus theme.
