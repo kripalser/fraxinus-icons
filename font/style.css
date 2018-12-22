@@ -1,0 +1,131 @@
+@font-face {
+  font-family: 'fraxinus';
+  src:  url('fonts/fraxinus.eot?yt5jt9');
+  src:  url('fonts/fraxinus.eot?yt5jt9#iefix') format('embedded-opentype'),
+    url('fonts/fraxinus.ttf?yt5jt9') format('truetype'),
+    url('fonts/fraxinus.woff?yt5jt9') format('woff'),
+    url('fonts/fraxinus.svg?yt5jt9#fraxinus') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fs {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fraxinus' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fs-menu:before {
+  content: "\e900";
+}
+.fs-search:before {
+  content: "\e901";
+}
+.fs-user:before {
+  content: "\e902";
+}
+.fs-heart:before {
+  content: "\e903";
+}
+.fs-heart-filled:before {
+  content: "\e904";
+}
+.fs-cart:before {
+  content: "\e905";
+}
+.fs-search-sm:before {
+  content: "\e906";
+}
+.fs-heart-sm:before {
+  content: "\e907";
+}
+.fs-heart-filled-sm:before {
+  content: "\e908";
+}
+.fs-external-link-sm:before {
+  content: "\e909";
+}
+.fs-checkmark-xs:before {
+  content: "\e90a";
+}
+.fs-enter-sm:before {
+  content: "\e90b";
+}
+.fs-star-sm:before {
+  content: "\e90c";
+}
+.fs-close:before {
+  content: "\e90d";
+}
+.fs-close-sm:before {
+  content: "\e90e";
+}
+.fs-arrow-down-sm:before {
+  content: "\e90f";
+}
+.fs-arrow-left-sm:before {
+  content: "\e910";
+}
+.fs-arrow-right-sm:before {
+  content: "\e911";
+}
+.fs-arrow-up-sm:before {
+  content: "\e912";
+}
+.fs-chevron-down-xs:before {
+  content: "\e913";
+}
+.fs-chevron-left-xs:before {
+  content: "\e914";
+}
+.fs-chevron-right-xs:before {
+  content: "\e915";
+}
+.fs-chevron-up-xs:before {
+  content: "\e916";
+}
+.fs-chevron-down-sm:before {
+  content: "\e917";
+}
+.fs-chevron-left-sm:before {
+  content: "\e918";
+}
+.fs-chevron-right-sm:before {
+  content: "\e919";
+}
+.fs-chevron-up-sm:before {
+  content: "\e91a";
+}
+.fs-chevron-down:before {
+  content: "\e91b";
+}
+.fs-chevron-left:before {
+  content: "\e91c";
+}
+.fs-chevron-right:before {
+  content: "\e91d";
+}
+.fs-chevron-up:before {
+  content: "\e91e";
+}
+.fs-chevron-down-lg:before {
+  content: "\e91f";
+}
+.fs-chevron-left-lg:before {
+  content: "\e920";
+}
+.fs-chevron-right-lg:before {
+  content: "\e921";
+}
+.fs-chevron-up-lg:before {
+  content: "\e922";
+}
