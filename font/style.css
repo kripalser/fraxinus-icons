@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fraxinus';
-  src:  url('fonts/fraxinus.eot?743kch');
-  src:  url('fonts/fraxinus.eot?743kch#iefix') format('embedded-opentype'),
-    url('fonts/fraxinus.ttf?743kch') format('truetype'),
-    url('fonts/fraxinus.woff?743kch') format('woff'),
-    url('fonts/fraxinus.svg?743kch#fraxinus') format('svg');
+  src:  url('fonts/fraxinus.eot?sy8xj6');
+  src:  url('fonts/fraxinus.eot?sy8xj6#iefix') format('embedded-opentype'),
+    url('fonts/fraxinus.ttf?sy8xj6') format('truetype'),
+    url('fonts/fraxinus.woff?sy8xj6') format('woff'),
+    url('fonts/fraxinus.svg?sy8xj6#fraxinus') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -108,27 +108,27 @@
 .fs-close:before {
   content: "\e91b";
 }
-.fs-chevron-down:before {
+.fs-chevron-down-lg:before {
   content: "\e91c";
 }
-.fs-chevron-left:before {
+.fs-chevron-left-lg:before {
   content: "\e91d";
 }
-.fs-chevron-right:before {
+.fs-chevron-right-lg:before {
   content: "\e91e";
 }
-.fs-chevron-up:before {
+.fs-chevron-up-lg:before {
   content: "\e91f";
 }
-.fs-chevron-down-lg:before {
+.fs-chevron-down-xl:before {
   content: "\e920";
 }
-.fs-chevron-left-lg:before {
+.fs-chevron-left-xl:before {
   content: "\e921";
 }
-.fs-chevron-right-lg:before {
+.fs-chevron-right-xl:before {
   content: "\e922";
 }
-.fs-chevron-up-lg:before {
+.fs-chevron-up-xl:before {
   content: "\e923";
 }
