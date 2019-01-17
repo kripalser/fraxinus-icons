@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fraxinus';
-  src:  url('fonts/fraxinus.eot?sy8xj6');
-  src:  url('fonts/fraxinus.eot?sy8xj6#iefix') format('embedded-opentype'),
-    url('fonts/fraxinus.ttf?sy8xj6') format('truetype'),
-    url('fonts/fraxinus.woff?sy8xj6') format('woff'),
-    url('fonts/fraxinus.svg?sy8xj6#fraxinus') format('svg');
+  src:  url('fonts/fraxinus.eot?m9gnqe');
+  src:  url('fonts/fraxinus.eot?m9gnqe#iefix') format('embedded-opentype'),
+    url('fonts/fraxinus.ttf?m9gnqe') format('truetype'),
+    url('fonts/fraxinus.woff?m9gnqe') format('woff'),
+    url('fonts/fraxinus.svg?m9gnqe#fraxinus') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -41,6 +41,9 @@
 }
 .fs-star-sm:before {
   content: "\e905";
+}
+.fs-expand-sm:before {
+  content: "\e924";
 }
 .fs-close-sm:before {
   content: "\e906";
